@@ -188,3 +188,5 @@ Compared to linear regression, it is able to represent more complex nonlinear dy
 This project demonstrates how **Model-Based Reinforcement Learning**, **supervised dynamics prediction**, and **reinforcement-learning-based environment modeling** can be combined to solve a classical control problem efficiently.
 
 By comparing a **Linear Regression Next-State Predictor** with a **Generalized RL Dynamics Model**, the project highlights the tradeoff between interpretability and representational power while achieving reliable inverted-pendulum stabilization.
+
+Made with 🩸 by Ayush.
