@@ -163,8 +163,7 @@ Compared to linear regression, it is able to represent more complex nonlinear dy
 │   ├── fitted_vi_rl.py
 │   ├── reward.py
 │
-├── RL_InvertedPendulum.ipynb
-├── inverted_pendulum_state.ipynb
+├── inverted_pendulum_state.csv
 │
 └── README.md
 ```
